@@ -4,7 +4,7 @@ import SideBar from "../component/SideBar"
 import NavBar from "../component/NavBar"
 import { FiMenu } from 'react-icons/fi';
 import { useState, useRef, useEffect } from "react";
-import CardGrid from "../component/cardGrid";
+import CardGrid from "../component/CardGrid";
 import AnalyticCard from "../component/AnalyticCard";
 import BarCharts from "../component/BarCharts";
 import Table from "../component/Table";
