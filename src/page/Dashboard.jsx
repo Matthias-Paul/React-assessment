@@ -75,7 +75,7 @@ const Dashboard = () => {
         >
         <SideBar />
        </div>
-          <main className=" max-w-[1200px]  mx-auto " >
+          <main className=" max-w-[1247px] w-full  mx-auto " >
              <NavBar />
              <div className="px-[15px]  " >
 
